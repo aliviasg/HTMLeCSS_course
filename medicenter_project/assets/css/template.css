@@ -259,6 +259,10 @@ footer {
     margin-top: 13px;
     color:white;
 }
+.fm_description a{
+    text-decoration: none;
+    color: white;
+}
 .footer-area {
     display: flex;
     color: white;
@@ -305,7 +309,8 @@ ul {
     list-style-position:inside;
     padding: 0;
 }
-.mail {
+.mail a {
+    text-decoration: none;
     color: white;
 }
 .widget2 {
@@ -314,4 +319,20 @@ ul {
 }
 .latestpost {
     padding-bottom: 10px;
+}
+.latestpost a {
+    text-decoration: none;
+    color: white;
+}
+
+.widget3 {
+    list-style-type: circle;
+}
+.latesttweets {
+    margin-bottom: 20px;
+}
+.latesttweets a {
+    display: contents;
+    text-decoration: none;
+    color: #727272;
 }
