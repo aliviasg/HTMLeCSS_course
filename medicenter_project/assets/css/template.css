@@ -281,3 +281,37 @@ footer .widget_title_text{
     font-size: 12px;
     margin-top: 30px;
 }
+.widget_bodyfooter {
+    color:#727272;
+    font-size: 13px;
+    margin-top: 25px;
+    margin-bottom: 28px;
+    padding-right: 30px;
+}
+.footer-contactinfoleft {
+    color:#727272;
+    font-size: 13px;
+    margin: 0px;
+    float: left;
+}
+.footer-contactinforight {
+    color:#727272;
+    font-size: 13px;
+    margin: 0px;
+    float: right;
+}
+ul {
+    list-style-type: none;
+    list-style-position:inside;
+    padding: 0;
+}
+.mail {
+    color: white;
+}
+.widget2 {
+    color: white;
+    list-style-type: circle;
+}
+.latestpost {
+    padding-bottom: 10px;
+}
